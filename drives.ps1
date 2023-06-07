@@ -119,8 +119,8 @@ if ($percentFree -le 20) {
 
     $sendTelegramMessageSplat = @{
         Message     = "[LOW SPACE] Drive at $percentFree%"
-        ChatID      = "5426734316"
-        BotToken    = "6234654080:AAGlnMTHlFPtpsScVtk3I3QuOyGAJ5lwr0A"
+        ChatID      = "###########"
+        BotToken    = "##################################"
         ErrorAction = 'Stop'
     }
     try {
