@@ -1,0 +1,30 @@
+[INFO] Running /home/pfourie/drives.ps1
+[INFO] PoshGram is installed.
+[ERROR] ./ was not found.
+[ERROR] Unable to retrieve volume information.
+ScriptHalted
+[INFO] Running /home/pfourie/drives.ps1
+[INFO] PoshGram is installed.
+[INFO] Percent Free: 15%.
+[INFO] Imported PoshGram succesfully.
+[INFO] Sending Telegram notification.
+[INFO] Running /home/pfourie/drives.ps1
+[INFO] PoshGram is installed.
+[INFO] Percent Free: 15%.
+[INFO] Imported PoshGram succesfully.
+[INFO] Sending Telegram notification.
+[ERROR] Error ecnountered sending message.
+Cannot validate argument on parameter 'BotToken'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+[INFO] Running /home/pfourie/drives.ps1
+[INFO] PoshGram is installed.
+[INFO] Percent Free: 15%.
+[INFO] Imported PoshGram succesfully.
+[INFO] Sending Telegram notification.
+[ERROR] Error ecnountered sending message.
+{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[INFO] Running /home/pfourie/drives.ps1
+[INFO] PoshGram is installed.
+[INFO] Percent Free: 15%.
+[INFO] Imported PoshGram succesfully.
+[INFO] Sending Telegram notification.
+[INFO] Message sent succesfully.
